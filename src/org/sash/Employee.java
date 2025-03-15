@@ -49,6 +49,8 @@ public static void main(String[] args) {
 	Set<Entry<Character, Integer>> entrySet = m2.entrySet();
 	for(Entry<Character, Integer> r:entrySet) {
 	System.out.println(r);
+	System.out.println("muni");
+	System.out.println("hiii");
 	//hashtabl
 	//Map<String,String> m3=new Hashtable();	
 	//m3.put("RamSarath","APITesting");
