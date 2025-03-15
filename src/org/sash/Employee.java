@@ -57,7 +57,8 @@ public static void main(String[] args) {
 	//m3.put("Aathi","Selenium");
 	//m3.put("Vicky","Corejava");
 	//System.out.println(m3);
-	
+	System.out.println("muniraj");
+	System.out.println("hiiii");
 	
 	
 	
